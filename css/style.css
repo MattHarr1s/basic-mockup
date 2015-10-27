@@ -31,6 +31,9 @@ h1{
 	float:right;
 }
 
+img{
+	border: 5px solid gray;
+}
 .clear {
 	clear: both;
 }
