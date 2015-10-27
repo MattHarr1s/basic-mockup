@@ -33,6 +33,7 @@ h1{
 
 img{
 	border: 5px solid gray;
+	padding: 5px;
 }
 .clear {
 	clear: both;
