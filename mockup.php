@@ -6,7 +6,8 @@
 		<title>Dylan's Profe$$ional Web Page</title>
 	</head>
 	<body>
+		<!-headline for Dylan's professional web page->
 		<h1 class="headline">Dylan's Profe$$ional Web Page</h1>
-		<img src="img/mockup.jpg" alt="mockup example" />
-	</body>
+		<!-list of instructions that will go in a box->
+		</body>
 </html>
