@@ -56,6 +56,9 @@ body { width: 100%;}
 	flex-direction: column;
 	min-height: 100vh;
 }
+footer{
+	background-color: black;
+}
 
 .sfooter-content {
 	flex: 1 0 auto;
