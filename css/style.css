@@ -22,7 +22,7 @@ h1{
 	width: inherit;
 	padding:10px;
 	border: 5px solid gray;
-	margin: 0;
+	margin: 10px;
 }
 .pull-left {
 	float:left;
