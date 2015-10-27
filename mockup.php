@@ -2,17 +2,11 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<style>
-			img {
-				display: block;
-				height: auto;
-				margin: 0 auto;
-				max-width: 100%;
-			}
-		</style>
-		<title>Basic CSS Mockup</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<title>Dylan's Profe$$ional Web Page</title>
 	</head>
 	<body>
+		<h1 class="headline">Dylan's Profe$$ional Web Page</h1>
 		<img src="img/mockup.jpg" alt="mockup example" />
 	</body>
 </html>
