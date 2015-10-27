@@ -19,12 +19,10 @@ h1{
 }
 
 .instructions {
-	border: 2px solid gray;
-
-}
-
-h2{
-	margin: 10px;
+	width: 320px;
+	padding: 10px;
+	border: 5px solid gray;
+	margin: 0;
 }
 
 .clear {
